@@ -17,3 +17,6 @@ const formatTestDate = (date = new Date()) => {
 let testDate = formatTestDate();
 
 console.log(testDate);
+let testDateq = formatTestDate();
+
+console.log(testDateq);
