@@ -1,5 +1,6 @@
 # Constants
 MAX_USERS = 100
+MAX_PERSONS = 100
 DEFAULT_TIMEOUT = 30
 API_BASE_URL = "https://api.example.com"
 VALID_STATUS_CODES = [200, 201, 204]
