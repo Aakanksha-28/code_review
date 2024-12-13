@@ -13,3 +13,7 @@ const formatTestDate = (date = new Date()) => {
         }
     };
 };
+
+let testDate = formatTestDate();
+
+console.log(testDate);
